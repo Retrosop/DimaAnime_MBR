@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">lab5</string>
-    <string name="buttonSend">Send</string>
-    <string name="hint">enter message</string>
-    <string name="chooser_title">Как отправить сообщение?</string>
-</resources>
